@@ -17,7 +17,7 @@ Welcome to the Food Court repository! This project is a sleek and responsive res
    ```bash
    cd food-court
    ```
-3. Open [index.html](https://pages.github.com/mayur-pathe/food-court/index.html) in your preferred browser to view the website.
+3. Open [index.html](https://github.com/mayur-pathe/food-court/blob/main/index.html) in your preferred browser to view the website.
 
 ## Usage
 - Navigate through the website to explore the menu, check out the ambiance gallery, and make reservations.
