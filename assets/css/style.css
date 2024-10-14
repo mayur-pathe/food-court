@@ -1,0 +1,24 @@
+
+body{
+    font-family: Shantell Sans;
+    background-color: #e8f1f2;
+}
+.nav-link{
+    color: #0a0a24;
+}
+.btn{
+    border-radius: 50px;
+    color: #0a0a24;
+    background-color: #fcff33;
+}
+.btn:hover{
+    background-color: #9ef01a;
+}
+#menu>.btn{
+    color: #0a0a24;
+    background-color: #44ff00;
+}
+#menu>.btn:hover{
+    background-color: #fcff33;
+    transition: background-color 0.5s;
+}
